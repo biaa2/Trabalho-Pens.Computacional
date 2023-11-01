@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>exercicio 3</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <hr width="500px" color="blue">
+    <p>
+        aleatorio
+    </p><br>
+
+    <p>
+        Está disponível hoje, para você baixar gratuitamente, um pequeno poema <br>
+        com interpretação e ortografia – an, en, in, on, un – o 1º/2º ano, <br>
+        onde será trabalhado a compreensão do texto e a família silábica <br>
+        de tais sílabas, partindo das palavras do texto. <br>
+
+    </p>
+    <p><br><br><br>
+        <p> 
+            Diante disso, é preciso que se ofereça à criança uma forma bem <br>
+            diversificada de trabalhar todo este processo. Além das <br>
+            atividades lúdicas e brincadeiras próprias desta fase, é <br>
+             preciso que o aluno tenha acesso a textos, como este, <br>
+              Pequeno poema com interpretação e Ortografia, que  <br>
+              respeitem a faixa etária e o nível de aprendizado da criança. <br>
+        </p>
+        <p>
+            ficou estranho
+        </p><br>
+        <hr width="500px" color="blue">
+    </p>
+</body>
+</html>
